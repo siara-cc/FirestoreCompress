@@ -26,7 +26,7 @@ Unishox is an hybrid encoder (entropy, dictionary and delta coding).  It works b
 
 The model used for arriving at the prefix-free code is shown below:
 
-![Promo video](https://github.com/siara-cc/Unishox2/blob/master/demo/promo/model.png?raw=true)
+![Promo video](https://github.com/siara-cc/Unishox2/blob/master/promo/model.png?raw=true)
 
 The complete specification can be found in this article: [Unishox 2 - Guaranteed Configurable Compression for Short Strings using Entropy, Dictionary and Delta encoding techniques](https://github.com/siara-cc/Unishox2/blob/master/Unishox_Article_2.pdf?raw=true).
 
